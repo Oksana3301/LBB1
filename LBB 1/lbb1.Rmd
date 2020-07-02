@@ -1,6 +1,6 @@
 ---
 title: "Exploratory Data Analysis - Clothing Reviews"
-author: "Atika Dewi Suryni"
+author: "Atika Dewi Suryani"
 date: "`r format(Sys.Date(), '%B %e, %Y')`"
 output: 
   html_document:
